@@ -1,0 +1,16 @@
+{
+  "name": "abmalak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d anonymouse"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Abdullah-Khan-11/ABMalak",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
